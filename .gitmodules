@@ -1,3 +1,6 @@
 [submodule "CodeMirror"]
 	path = CodeMirror
 	url = git@github.com:codemirror/CodeMirror.git
+[submodule "hurrybin/Scripts/CodeMirror"]
+	path = hurrybin/Scripts/CodeMirror
+	url = git@github.com:codemirror/CodeMirror.git
